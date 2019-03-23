@@ -1,6 +1,6 @@
 (define(domain restaurant-staff-optimization))
         (:requirements :typing :durative-actions)
-        (:types table staff group chef - object)
+        (:types table staff group chef)
         (:predicates
             (table-available ?t - table)
             (staff-hand-free ?s - staff)

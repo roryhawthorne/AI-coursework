@@ -1,4 +1,4 @@
- (define (domain restaurant-staff-optimization)
+ (define (domain restaurant-optimization)
  
  (:requirements :typing :durative-actions :fluents)
  
